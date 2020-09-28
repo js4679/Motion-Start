@@ -35,25 +35,25 @@
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/content/demo.html",
-		"oF": 1
+		"oA": 0,
+		"oAP": "/deploy/demo.html",
+		"oF": 3
 		},
 	"/dev/global/head.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/global/head.html",
-		"oF": 0
+		"oA": 0,
+		"oAP": "/deploy/head.html",
+		"oF": 2
 		},
 	"/dev/global/scripts.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 1,
-		"oAP": "/dev/global/scripts.html",
-		"oF": 0
+		"oA": 0,
+		"oAP": "/deploy/scripts.html",
+		"oF": 2
 		},
 	"/dev/index.kit": {
 		"cB": 0,
