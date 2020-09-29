@@ -11,9 +11,9 @@ var mainTL = gsap.timeline({paused:true});
 
 mainTL.add(redBoxAnimation())
         //.addLabel("blue")
-        .addPause()
+        // .addPause()
         .add(blueBoxAnimation())
        
         .add(greenBoxAnimation())
-        .seek("blue")
+        // .seek("blue")
         .play();
