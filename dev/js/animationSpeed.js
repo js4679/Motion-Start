@@ -1,1 +1,1 @@
-export const boxSpeed = 1.25;
+export const boxSpeed = 2;
