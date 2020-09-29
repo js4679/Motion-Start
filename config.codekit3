@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "32001",
 "files": {
+	"/deploy/css/_variables.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/deploy/css/_variables-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/deploy/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
@@ -19,22 +29,6 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/deploy/demo.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/deploy/demo.html",
-		"oF": 0
-		},
-	"/deploy/head.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/deploy/head.html",
-		"oF": 0
-		},
 	"/deploy/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -42,17 +36,6 @@
 		"oA": 0,
 		"oAP": "/deploy/index.html",
 		"oF": 0
-		},
-	"/deploy/js/demo-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/deploy/js/demo-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
 		},
 	"/deploy/js/scripts-min.js": {
 		"bF": 0,
@@ -69,7 +52,7 @@
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/demo.html",
 		"oF": 3
 		},
@@ -77,17 +60,17 @@
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/head.html",
-		"oF": 2
+		"oF": 3
 		},
 	"/dev/global/scripts.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/deploy/scripts.html",
-		"oF": 2
+		"oF": 3
 		},
 	"/dev/index.kit": {
 		"cB": 0,
@@ -97,14 +80,58 @@
 		"oAP": "/deploy/index.html",
 		"oF": 2
 		},
-	"/dev/js/demo.js": {
+	"/dev/js/animationSpeed.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
+		"oA": 1,
+		"oAP": "/dev/js/animationSpeed-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/blueBox.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
 		"oA": 0,
+		"oAP": "/dev/js/blueBox-min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/demo.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
 		"oAP": "/deploy/js/demo-min.js",
 		"oF": 3,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/greenBox.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/dev/js/greenBox-min.js",
+		"oF": 1,
+		"sC": 3,
+		"tS": 0
+		},
+	"/dev/js/redBox.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/dev/js/redBox-min.js",
+		"oF": 1,
 		"sC": 3,
 		"tS": 0
 		},
